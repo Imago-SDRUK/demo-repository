@@ -15,6 +15,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "mpardy",
+      "name": "mp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44445841?v=4",
+      "profile": "https://github.com/mpardy",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
